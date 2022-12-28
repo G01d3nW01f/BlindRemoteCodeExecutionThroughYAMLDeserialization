@@ -2,7 +2,7 @@
 
 This script for generate the evil yml file 
 
-resource:
+Detailed Article:
            https://blog.stratumsecurity.com/2021/06/09/blind-remote-code-execution-through-yaml-deserialization/
 
 
